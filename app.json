@@ -23,5 +23,6 @@
       "description": "The login password. Please change this.",
       "generator": "secret"
     }
-  }
+  },
+  "stack": "heroku-16"
 }
